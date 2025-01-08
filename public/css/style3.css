@@ -60,3 +60,7 @@ body{
 .visible{
     color: red;
 }
+
+.noVisible{
+    display: none;
+}

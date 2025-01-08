@@ -1,0 +1,30 @@
+[
+  {
+    "nombre": "Jhon Jairo",
+    "password": "123456789",
+    "email": "ramirezhurtado625@gmail.com",
+    "id": 1735176601617,
+    "fechaRegistro": "2024-12-26T01:30:01.617Z"
+  },
+  {
+    "nombre": "Juan",
+    "password": "123456789",
+    "email": "sandrapatriciahurtadoramirez@gmail.com",
+    "id": 1735183181565,
+    "fechaRegistro": "2024-12-26T03:19:41.565Z"
+  },
+  {
+    "nombre": "Jhon Jairo Ramirez",
+    "password": "1234567896",
+    "email": "ramirezhurtado625@gmail.com",
+    "id": 1735183256653,
+    "fechaRegistro": "2024-12-26T03:20:56.653Z"
+  },
+  {
+    "nombre": "Camilo",
+    "password": "Jhon.2024!",
+    "email": "ramirezhurtado625@gmail.com",
+    "id": 1735183324058,
+    "fechaRegistro": "2024-12-26T03:22:04.058Z"
+  }
+]
